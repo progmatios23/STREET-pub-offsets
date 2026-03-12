@@ -2,7 +2,21 @@
   "game": {
     "OFFSET_GWORLD": "0xA3EB600",
     "OFFSET_GOBJECTS": "0xA292588",
-    "OFFSET_GNAMES": "0x7ED0DA8"
+    "OFFSET_GNAMES": "0x7ED0DA8",
+    "offset_FNameDecryptKey": "0xA52D2DC",
+    "offset_WeaponManagerComponent": "0x1720",
+    "offset_DeathComponent": "0x1728",
+    "offset_DeathInfo": "0x240",
+    "offset_TeamId": "0x4D0",
+    "offset_CurrentWeapon": "0x150",
+    "offset_WeaponZoomComponent": "0xA38",
+    "offset_ZoomProgressRateCheck": "0x3AC",
+    "offset_ZoomProgressRate": "0x3C0",
+    "offset_last_submit_time": "0x3DC",
+    "offset_last_render_time": "0x3E0",
+    "offset_PlayerNamePrivate": "0x3F0",
+    "offset_CameraCachePrivate": "0x2090",
+    "offset_CameraCacheOffset": "0x20A0"
   },
   "UWorld": {
     "PersistentLevel": "0x30",
