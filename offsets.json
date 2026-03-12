@@ -1,0 +1,97 @@
+{
+  "game": {
+    "OFFSET_GWORLD": "0xA3EB600",
+    "OFFSET_GOBJECTS": "0xA292588",
+    "OFFSET_GNAMES": "0x7ED0DA8"
+  },
+  "UWorld": {
+    "PersistentLevel": "0x30",
+    "NetDriver": "0x38",
+    "LineBatcher": "0x40",
+    "PersistentLineBatcher": "0x48",
+    "ForegroundLineBatcher": "0x50",
+    "NetworkManager": "0x58",
+    "PhysicsCollisionHandler": "0x60",
+    "ExtraReferences": "0x68",
+    "PerModuleDataForLevelSetup": "0x78",
+    "LevelCollections": "0x80",
+    "OwningGameInstance": "0x180",
+    "ParameterCollectionInstances": "0x188",
+    "CanvasForRenderingToTarget": "0x198",
+    "CanvasForDrawMaterialToRenderTarget": "0x1A0",
+    "PhysicsField": "0x1E0",
+    "ComponentsThatNeedEndOfFrameUpdate": "0x1F0",
+    "ComponentsThatNeedEndOfFrameUpdate_OnGameThread": "0x240",
+    "WorldComposition": "0x480",
+    "ContentPluginsToWatch": "0x4C0",
+    "GameState": "0x120",
+    "AuthorityGameMode": "0x130",
+    "NavigationSystem": "0x138",
+    "AutoNavBuilder": "0x140",
+    "AIControllerClass": "0x148",
+    "LevelScriptBlueprintClass": "0x150",
+    "CurrentLevelPendingVisibility": "0x158",
+    "CurrentLevelPendingInvisibility": "0x160",
+    "DemoNetDriver": "0x168",
+    "MyParticleEventManager": "0x170",
+    "DefaultPhysicsVolume": "0x178",
+    "NetworkActor": "0x190",
+    "Levels": "0x138",
+    "LevelInstances": "0x148",
+    "ActiveLevelCollectionIndex": "0x158"
+  },
+  "ULevel": {
+    "Actors": "0x98",
+    "OwningWorld": "0xB0",
+    "Model": "0xB8",
+    "ModelComponents": "0xC0",
+    "LevelScriptActor": "0xD0",
+    "NavListStart": "0xD8",
+    "NavListEnd": "0xE0",
+    "NavDataChunks": "0xE8",
+    "LightmapTotalSize": "0xF8",
+    "ShadowmapTotalSize": "0xFC",
+    "StaticNavigableGeometry": "0x100",
+    "StreamingTextureGuids": "0x110",
+    "StreamingTextures": "0x120",
+    "PackedTextureGuids": "0x130",
+    "LevelBuildDataId": "0x140",
+    "MapBuildData": "0x150",
+    "LightBuildLevelOffset": "0x158",
+    "bIsLightingScenario": "0x164",
+    "bTextureAllocationsGroupedAndDrawn": "0x164",
+    "bIsVisible": "0x164",
+    "WorldSettings": "0x240",
+    "AssetUserData": "0x250",
+    "DestroyedReplicatedStaticActors": "0x260",
+    "bClientShatterFX": "0x270"
+  },
+  "UGameInstance": {
+    "LocalPlayers": "0x38",
+    "OnlineSession": "0x48",
+    "ReferencedObjects": "0x50"
+  },
+  "ULocalPlayer": {
+    "PlayerController": "0x30"
+  },
+  "APlayerController": {
+    "PlayerCameraManager": "0x340",
+    "AcknowledgedPawn": "0x330"
+  },
+  "AGameStateBase": {
+    "PlayerArray": "0x2A0"
+  },
+  "AActor": {
+    "RootComponent": "0x190",
+    "CustomTimeDilation": "0x64"
+  },
+  "ACharacter": {
+    "Mesh": "0x310"
+  },
+  "USceneComponent": {
+    "ComponentVelocity": "0x170"
+  },
+  "USkeletalMeshComponent": {
+    "BoneArray": "0x5B0"
+  }
+}
