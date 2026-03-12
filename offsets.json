@@ -1,7 +1,7 @@
 {
   "game": {
-    "OFFSET_GWORLD": "0xA3EB600",
-    "OFFSET_GOBJECTS": "0xA292588",
+    "OFFSET_GWORLD": "0xA0427A8",
+    "OFFSET_GOBJECTS": "0xA292578",
     "OFFSET_GNAMES": "0x7ED0DA8",
     "offset_FNameDecryptKey": "0xA52D2DC",
     "offset_WeaponManagerComponent": "0x1720",
@@ -29,7 +29,7 @@
     "ExtraReferences": "0x68",
     "PerModuleDataForLevelSetup": "0x78",
     "LevelCollections": "0x80",
-    "OwningGameInstance": "0x180",
+    "OwningGameInstance": "0x1A8",
     "ParameterCollectionInstances": "0x188",
     "CanvasForRenderingToTarget": "0x198",
     "CanvasForDrawMaterialToRenderTarget": "0x1A0",
